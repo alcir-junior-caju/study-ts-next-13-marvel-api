@@ -11,6 +11,8 @@
 
 Pequeno estudo da nova versão do Next 13. Entendo o Data Fetching (Client-side Fetching), Dynamic Routes, Api Routes. Uso do Next mais puro possível.
 
+Para executar o projeto basta rodar um `yarn dev` mas é preciso ter as `api keys` da marvel.
+
 ---
 
 ## Visualizar o projeto na IDE:
