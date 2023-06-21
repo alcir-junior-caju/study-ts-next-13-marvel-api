@@ -13,6 +13,8 @@ Pequeno estudo da nova versão do Next 13. Entendo o Data Fetching (Client-side 
 
 Para executar o projeto basta rodar um `yarn dev` mas é preciso ter as `api keys` da marvel.
 
+Link para a aplicação: https://study-ts-next-13-marvel-api.vercel.app/
+
 ---
 
 ## Visualizar o projeto na IDE:
